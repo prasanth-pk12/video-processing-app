@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+celery[redis]
+redis
+ffmpeg-python
+fastapi-cors
+flower
